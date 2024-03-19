@@ -19,7 +19,14 @@ Convolutional Neural Networks (CNNs): Deep learning models specifically designed
 Image Processing: Techniques employed for preprocessing and enhancing traffic sign images.
 Evaluation Metrics: Utilized to measure the performance and accuracy of the model.
 Images:
+Training 
+![Alt text](images/training.png)
+![Alt text](images/download.png)
 
+
+# Sample dataset
+![Alt text](images/signs.png)
+![Alt text](images/sample.png)
 
 # Contributing:
 Contributions are welcome! Whether it's through bug fixes, feature enhancements, or documentation improvements, your help is appreciated. Please refer to the CONTRIBUTING.md file for guidelines.
